@@ -1,0 +1,30 @@
+{
+  "factures": [
+    {
+      "id": "9c1e",
+      "reffactures": "lezou",
+      "Nomfactures": "lezou",
+      "Prfactures": "lezou",
+      "Qtfactures": "lezou"
+    }
+  ],
+  "produits": [
+    {
+      "id": "0661",
+      "refProduit": "hjj",
+      "NomProduit": "hjj",
+      "PrUnitaire": "hjj",
+      "QtProd": "hjj"
+    }
+  ],
+  "utilisateurs": [
+    {
+      "id": "e90a",
+      "nomUtilisateur": "ff",
+      "Passworduser": "fff",
+      "PasswordRE": "ffff"
+    }
+  
+
+  ]
+}
